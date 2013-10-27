@@ -33,8 +33,6 @@
     <string name="preferences_interface_homescreen_general_grid_summary">홈 화면의 행/열의 수를 선택</string>
     <string name="preferences_interface_homescreen_general_grid_rows_title">행</string>
     <string name="preferences_interface_homescreen_general_grid_columns_title">열</string>
-    <string name="preferences_interface_homescreen_general_stretch_screens_title">스트레치 화면</string>
-    <string name="preferences_interface_homescreen_general_stretch_screens_summary">화면의 크기를 채우기 위해 홈 화면을 확장</string>
     <string name="preferences_interface_homescreen_general_hide_icon_labels_title">아이콘 레이블 숨기기</string>
     <string name="preferences_interface_homescreen_general_hide_icon_labels_summary">홈 화면의 아이콘 레이블 숨기기</string>
     <string name="preferences_interface_homescreen_scrolling_category">스크롤링</string>
@@ -129,6 +127,8 @@
     <string name="effects_carousel_right">오른쪽 회전 목마</string>
 	<string name="live_folder_cling_title">라이브 폴더</string>
     <string name="live_folder_cling_create_folder">라이브 폴더는 앱 개발자가 동적 콘텐츠 폴더를 만들수 있습니다. 폴더 내용은 단일 항목을 길게 눌러서 제거할수 있습니다. 일반 폴더와는 달리 항목은 폴더를 생성하는 애플리케이션에서 추가할수 있습니다</string>
+	<string name="conversations_title">대화</string>
+    <string name="google_title">구글</string>
     <string name="config_drawerDefaultTransitionEffect">쌓기</string>
     <string name="config_workspaceDefaultTransitionEffect">확대</string>
     <string name="application_name">Trebuchet</string>
