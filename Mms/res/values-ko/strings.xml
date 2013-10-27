@@ -102,6 +102,14 @@
     <string name="menu_mobile">휴대 전화 번호</string>
     <string name="menu_groups">그룹 표시</string>
     <string name="fastscroll_index_groups">GR</string>
+	<string name="pref_title_send_delay">전송 지연</string>
+    <string name="send_delay_immediate">즉시 보내기</string>
+    <string name="send_delay_3seconds">3초</string>
+    <string name="send_delay_5seconds">5초</string>
+    <string name="send_delay_10seconds">10초</string>
+    <string name="send_delay_20seconds">20초</string>
+    <string name="send_delay_30seconds">30초</string>
+    <string name="sent_countdown">메시지 전송 카운트 다운</string>
     <string name="app_label">메시지</string>
     <string name="new_message">새 메시지</string>
     <string name="menu_call_back">전화하기:%s</string>
